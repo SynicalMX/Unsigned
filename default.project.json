@@ -1,0 +1,11 @@
+{
+	"name": "Unsigned",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Unsigned": {
+				"$path": "src"
+			}
+		}
+	}
+}
