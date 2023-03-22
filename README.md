@@ -2,6 +2,8 @@
 
 A game dev should never have to always worry about exploiters.
 
+> Notice: Unsigned is in heavy development currently. It is unwise to use it for production.
+
 ## What is it?
 
 Unsigned is a module for ROBLOX development that skewers the RemoteEvents and RemoteFunctions so exploiters cannot interact with them.
